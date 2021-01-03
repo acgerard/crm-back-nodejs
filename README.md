@@ -6,6 +6,8 @@
 
 This project uses [Feathers](http://feathersjs.com). An open source web framework for building modern real-time applications.
 
+## Pre-requisite
+A MongoDB (version 4.4) is required to launch the application. 
 ## Getting Started
 
 Getting up and running is as easy as 1, 2, 3.
